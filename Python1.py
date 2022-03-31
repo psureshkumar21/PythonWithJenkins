@@ -1,6 +1,4 @@
 #Arithmetic Operations On Python
-#Hello welcome
-#-sk\
 i=int(input("Enter First Number:"))
 j=int(input("Enter Second Number:"))
 print("Sum of two numbers is:",(i+j))
